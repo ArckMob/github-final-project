@@ -5,7 +5,8 @@
    # Do not use this in production. Sample purpose only.
 
    # Author: Upkar Lidder (IBM)
-   # Additional Authors:ArckMob
+   # Additional Authors:
+   #<ArckMob>
 
    # Input:
    # p, principal amount
